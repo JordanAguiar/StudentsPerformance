@@ -79,7 +79,7 @@ O dataset contém **1000 registros** e **16 variáveis**, incluindo:
 ## ▶️ Como Executar
 1. Clone o repositório
 ```bash
-git clone <https://github.com/JordanAguiar/StudentsPerformance.git>
+git clone https://github.com/JordanAguiar/StudentsPerformance.git
 ```
 2. Instale as dependências
 
